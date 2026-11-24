@@ -1,14 +1,5 @@
 #  AI-Powered Stock Intelligence & Portfolio Risk Platform
 
-**Group ID:** F26-9 | **Course / Section:** BSE-5A  
-**Team Members:**
-* **Ammar Arif** (`24L-3067`) — Group Lead
-* **Zainab Sharif** (`24L-3078`)
-* **Asadullah Nasir** (`24L-3089`)
-* **Ali Saad** (`24I-3023`)
-
----
-
 ##  Overview
 
 Traditional retail investment tools often isolate individual technical indicators from breaking news sentiment or evaluate single-stock predictions without accounting for portfolio-level systemic risk. 
